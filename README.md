@@ -3,7 +3,7 @@
 This project explores a classification model that classifies a customer as either churned or not churned.
 
 ## Summary
-| Code          |     Name                       | Published Article|    PowerBi Dashboard
+| Code          |     Name                       | Published Article|    PowerBi Dashboard Deployment
 | ------------- | -------------                  | -------------    |    -----------------
 | LP2           | LP2-Classification-Project |  [Article]()               |[PowerBI](https://app.powerbi.com/links/6a6rSqTlIY?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare)
 
