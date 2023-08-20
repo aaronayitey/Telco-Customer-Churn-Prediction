@@ -1,4 +1,4 @@
-# LP2-Classification-Project
+# Telco Customer Churn Classification
 
 This project explores a classification model that classifies a customer as either churned or not churned.
 
