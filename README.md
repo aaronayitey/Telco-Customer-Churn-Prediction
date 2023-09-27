@@ -1,3 +1,5 @@
+
+![image](https://github.com/aaronayitey/Telco-Customer-Churn-Prediction/assets/63174936/2389d2f4-b58a-4d55-b42b-d8766990caf2)
 # Telco Customer Churn Classification
 
 This project explores a classification model that classifies a customer as either churned or not churned.
