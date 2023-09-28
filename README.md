@@ -11,13 +11,18 @@ This project explores a classification model that classifies a customer as eithe
 
 
 ## Description
-In today's rapidly evolving telecommunications industry, service providers face intense competition, making the retention of existing customers a critical challenge. It is well-known that the cost of acquiring new customers outweighs that of retaining existing ones. To address this challenge, our project aims to develop a churn prediction model to forecast customer attrition and facilitate targeted retention strategies.
+In today's rapidly evolving telecommunications industry, service providers face intense competition, making the retention of existing customers a critical challenge. It is well-known that the cost of acquiring new customers outweighs that of retaining existing ones. To address this challenge, this project aims to develop a churn prediction model to forecast customer attrition and facilitate targeted retention strategies.
 
 ## Objective
 The primary objective of this project is to create an efficient churn prediction model that can identify customers at risk of churning. By proactively identifying potential churners, the telecom company can take timely and personalized actions to retain valuable customers and prevent revenue loss.
 
 ## Approach
-Our approach involves implementing machine learning techniques for churn prediction. We will explore and compare the performance of two popular algorithms: Logistic Regression, Decision Trees, Random Forest, and Support Vector Machines (SVM).
+The approach outlined for this project involves implementing machine learning techniques for churn prediction. I will explore and compare the performance of the following algorithms:
+* Logistic Regression
+* Random Forest
+* K- Nearest Neighbour 
+* Support Vector Machine
+* XGBClassifier.
 
 **From thoroughly examining the dataset, we came out with the following analytical questions:**
 
