@@ -8,7 +8,7 @@ This project explores a classification model that classifies a customer as eithe
 ## Summary
 | Code          |     Name                       | Published Article|    PowerBi Dashboard Deployment
 | ------------- | -------------                  | -------------    |    -----------------
-| LP2           | LP2-Classification-Project |  [Article](https://medium.com/@aaronayitey/unveiling-the-secrets-of-customer-churn-a-telco-data-driven-classification-odyssey-70528c04ee33)               |[PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNTRhODA2YjAtNjEzOS00OGY0LTkzZjYtZjZiY2UwZjNlMmVkIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)
+| LP2           | LP2-Classification-Project |  [Article](https://medium.com/@aaronayitey/unveiling-the-secrets-of-customer-churn-a-telco-data-driven-classification-odyssey-70528c04ee33)               |[PowerBI](https://app.powerbi.com/view?r=eyJrIjoiOWJlMTg4NjMtNGNjMS00Yzg0LTg3NjAtNjMwNGMxYmVkMGU5IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9&embedImagePlaceholder=true)
 
 
 ## Description
