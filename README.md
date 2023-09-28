@@ -1,5 +1,6 @@
 
-![image](https://github.com/aaronayitey/Telco-Customer-Churn-Prediction/assets/63174936/5f751b67-2d8a-4073-8627-3ed2be4838c6)
+![image](https://github.com/aaronayitey/Telco-Customer-Churn-Prediction/assets/63174936/18d225e8-4576-4bb2-8111-97be685a85bc)
+
 
 # Telco Customer Churn Classification
 
